@@ -1,4 +1,4 @@
-### Hi there 👋, Mi nombre es Edgar Armando Ortiz Jimenez
+### Hola a todos 👋, Mi nombre es Edgar Armando Ortiz Jimenez
 ##
 Alumno de Computación de la UNIVERSIDAD AUTONOMA BENITO JUAREZ DE OAXACA
 #
@@ -6,7 +6,7 @@ Estudiante de la licenciatura en Computación UABJO
 #
 HABILIDADES: C++ / JAVA / JS / HTML / CSS /JAVASCRIPT /PHP
 
-- 🔭 Actualmente estoy trabajando en un este repositorio https://github.com/EdgarArmandoOrtiz/procesamiento
+- 🔭 Actualmente estoy trabajando en este repositorio https://github.com/EdgarArmandoOrtiz/procesamiento
 - 🌱 Sigo aprendiendo desarrollo web tanto back-end como from-end, typescript, javascript
 
 ![GitHub metrics](https://metrics.lecoq.io/EdgarArmandoOrtiz) 
