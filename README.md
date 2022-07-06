@@ -6,8 +6,9 @@ Egresado de la licenciatura en Computación UABJO
 #
 HABILIDADES: C++ / JAVA / JS / HTML / CSS /JAVASCRIPT /PHP
 
-- 🔭 En estos repositorios he estado trabajando https://github.com/EdgarArmandoOrtiz/procesamiento
-- 🌱 Sigo aprendiendo desarrollo web tanto back-end como from-end, typescript, javascript
+- 🔭 En estos repositorios he estado trabajando  https://edgararmandoortiz.github.io/ProcesamientoImagenesProyecto/
+https://github.com/EdgarArmandoOrtiz/EdgarArmandoOrtiz.github.io
+- 🌱 Sigo aprendiendo desarrollo web tanto back-end como from-end, typescript, javascript y java
 
 ![GitHub metrics](https://metrics.lecoq.io/EdgarArmandoOrtiz) 
 
