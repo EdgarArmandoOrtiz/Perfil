@@ -2,11 +2,11 @@
 ##
 Alumno de Computación de la UNIVERSIDAD AUTONOMA BENITO JUAREZ DE OAXACA
 #
-Estudiante de la licenciatura en Computación UABJO
+Egresado de la licenciatura en Computación UABJO
 #
 HABILIDADES: C++ / JAVA / JS / HTML / CSS /JAVASCRIPT /PHP
 
-- 🔭 Actualmente estoy trabajando en este repositorio https://github.com/EdgarArmandoOrtiz/procesamiento
+- 🔭 En estos repositorios he estado trabajando https://github.com/EdgarArmandoOrtiz/procesamiento
 - 🌱 Sigo aprendiendo desarrollo web tanto back-end como from-end, typescript, javascript
 
 ![GitHub metrics](https://metrics.lecoq.io/EdgarArmandoOrtiz) 
