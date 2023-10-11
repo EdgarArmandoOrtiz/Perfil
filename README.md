@@ -1,6 +1,6 @@
 ### Hola a todos 👋, Mi nombre es Edgar Armando Ortiz Jimenez
 ##
-Alumno de Computación de la UNIVERSIDAD AUTONOMA BENITO JUAREZ DE OAXACA
+Alumno Egresado de la Lic. Computación de la UNIVERSIDAD AUTONOMA BENITO JUAREZ DE OAXACA
 #
 Egresado de la licenciatura en Computación UABJO
 #
